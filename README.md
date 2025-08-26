@@ -1,7 +1,5 @@
 # Agency-AI
 
-![Agency-AI Banner](https://avatars.githubusercontent.com/u/199483677?v=4)
-
 Welcome to **Agency-AI**, a modern, responsive AI-powered digital agency landing page and platform. This project leverages the power of JavaScript (97.5%), HTML (1.3%), and CSS (1.2%) to deliver an engaging web experience for agencies, startups, and teams focused on artificial intelligence solutions.
 
 **Live Demo:** [Agency-AI Homepage](https://agency-ai-swart-seven.vercel.app)
